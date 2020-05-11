@@ -1,7 +1,7 @@
 
 
 
-#### 当前版本
+#### 当前版本 : currentVersion
 
 [![](https://jitpack.io/v/yzhg0854/DialogFragment.svg)](https://jitpack.io/#yzhg0854/DialogFragment)
 
@@ -19,7 +19,7 @@ allprojects {
 
 ```
 dependencies {
-	  implementation 'com.github.yzhg0854:DialogFragment:Tag'
+	implementation 'com.github.yzhg-ux:DialogFragment:currentVersion'
 }
 ```
 
